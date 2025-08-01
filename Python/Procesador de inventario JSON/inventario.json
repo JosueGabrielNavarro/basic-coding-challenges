@@ -1,0 +1,14 @@
+{
+    "cocacola": {
+        "cantidad": 50,
+        "disponibilidad": true
+    },
+    "pepsi": {
+        "cantidad": 40,
+        "disponibilidad": true
+    },
+    "taza": {
+        "cantidad": 32,
+        "disponibilidad": true
+    }
+}
