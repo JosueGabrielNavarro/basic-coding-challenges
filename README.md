@@ -12,7 +12,11 @@ La razón de ser de este repositorio es simple:
 * **Construir un perfil activo:** Demostrar una disciplina de aprendizaje continua y una pasión por el desarrollo de software.
 * **Portafolio de habilidades:** Registrar el progreso en diferentes lenguajes y la capacidad para resolver problemas comunes.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="100" height="150"/>
+<p align="center">
+  <a href="https://cdn.jsdelivr.net">
+    <img height=100, src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+  </a>
+</p>
 
 ### **Programas Incluidos Hasta el Momento:**
 Cada programa se encuentra en su propio directorio. Aquí hay una lista de los programas actuales y su enfoque:
