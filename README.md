@@ -21,7 +21,7 @@ La razón de ser de este repositorio es simple:
 ### **Programas Incluidos Hasta el Momento:**
 Cada programa se encuentra en su propio directorio. Aquí hay una lista de los programas actuales y su enfoque:
 
-#### **`programa_inventario_python/`**
+#### **`Procesador de inventario JSON/`**
 
 * **Lenguaje:** Python
 * **Descripción:** Un programa de línea de comandos para gestionar un inventario. Permite al usuario añadir, ver y guardar los datos en un archivo JSON.
